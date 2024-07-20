@@ -169,4 +169,7 @@ delete.md
 # VS Code
 .vscode/
 
+# Uploading files
+uploads/
+
 # ****************************** Developer Added Codes - Ends ***********************************
